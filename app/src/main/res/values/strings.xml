@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Productos</string>
+    <string name="nom">NOMBRE</string>
+    <string name="price">PRECIO</string>
+    <string name="detail">DETALLE DEL PRODUCTO</string>
+    <string name="btn_cancel">CANCELAR</string>
+    <string name="btn_register">REGISTRAR</string>
+    <string name="transition_fab">transition_fab</string>
+    <string name="btn_update">Actualizar</string>
+    <string name="transition_card">transition_card</string>
+    <string name="buscar">Buscar</string>
+    <string name="txt_filtrar">Filtrar:</string>
+    <string name="claveprod">CLAVE</string>
+    <string name="cant">CANTIDAD</string>
+</resources>
