@@ -1,4 +1,4 @@
-## ACTIVIDAD T2-03 DESARROLLO DE APP
+## ACTIVIDAD T2-03 DESARROLLO DE APP MÓVIL Android/Java/SQLite
 Resultados obtenidos de la práctica.
 ### Vistas de la APP
 ![01](https://user-images.githubusercontent.com/72633788/100409444-73d80600-3031-11eb-9442-a59bd1c5b0e2.PNG)
